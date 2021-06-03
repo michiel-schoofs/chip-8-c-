@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8BitEmu", "8BitEmu.csproj", "{4441C56C-C7D0-4B18-B5D2-517C303FEC55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4441C56C-C7D0-4B18-B5D2-517C303FEC55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4441C56C-C7D0-4B18-B5D2-517C303FEC55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4441C56C-C7D0-4B18-B5D2-517C303FEC55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4441C56C-C7D0-4B18-B5D2-517C303FEC55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3589FAB1-0686-49E8-BD48-9E72E911FDB7}
+	EndGlobalSection
+EndGlobal

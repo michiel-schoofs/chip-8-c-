@@ -1,0 +1,13 @@
+C:\Users\gebruiker\source\repos\8BitEmu\bin\Debug\Programs\Breakout.ch8
+C:\Users\gebruiker\source\repos\8BitEmu\bin\Debug\8BitEmu.exe.config
+C:\Users\gebruiker\source\repos\8BitEmu\bin\Debug\8BitEmu.exe
+C:\Users\gebruiker\source\repos\8BitEmu\bin\Debug\8BitEmu.pdb
+C:\Users\gebruiker\source\repos\8BitEmu\obj\Debug\8BitEmu.csprojAssemblyReference.cache
+C:\Users\gebruiker\source\repos\8BitEmu\obj\Debug\_8BitEmu.Form1.resources
+C:\Users\gebruiker\source\repos\8BitEmu\obj\Debug\_8BitEmu.Properties.Resources.resources
+C:\Users\gebruiker\source\repos\8BitEmu\obj\Debug\8BitEmu.csproj.GenerateResource.cache
+C:\Users\gebruiker\source\repos\8BitEmu\obj\Debug\8BitEmu.csproj.CoreCompileInputs.cache
+C:\Users\gebruiker\source\repos\8BitEmu\obj\Debug\8BitEmu.exe
+C:\Users\gebruiker\source\repos\8BitEmu\obj\Debug\8BitEmu.pdb
+C:\Users\gebruiker\source\repos\8BitEmu\bin\Debug\Programs\pong2.ch8
+C:\Users\gebruiker\source\repos\8BitEmu\bin\Debug\Programs\Space Invaders.ch8
